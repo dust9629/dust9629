@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp -->
 <!--   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp -->
 <!-- </div> -->
-
+<br>
 <!-- 협업툴 -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
 </div>
 
-
+<br>
 <!-- 스터디 -->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -76,4 +76,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
 </div>
 
-
+<br>
