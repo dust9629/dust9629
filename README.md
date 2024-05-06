@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/nodedotjs-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
